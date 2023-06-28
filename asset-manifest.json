@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReviewComment/static/css/main.8bee4867.css",
+    "main.js": "/ReviewComment/static/js/main.12fc9fe3.js",
+    "index.html": "/ReviewComment/index.html",
+    "main.8bee4867.css.map": "/ReviewComment/static/css/main.8bee4867.css.map",
+    "main.12fc9fe3.js.map": "/ReviewComment/static/js/main.12fc9fe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bee4867.css",
+    "static/js/main.12fc9fe3.js"
+  ]
+}
